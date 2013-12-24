@@ -252,6 +252,7 @@
     [self initDeleteChooseGoods];
     
     NSLog(@"GitTest");
+    NSLog(@"GitTest");
 }
 
 - (void)didReceiveMemoryWarning
