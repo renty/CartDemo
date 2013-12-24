@@ -253,6 +253,8 @@
     
     NSLog(@"GitTest");
     NSLog(@"GitTest");
+    
+    NSLog(@"GitTest22");
 }
 
 - (void)didReceiveMemoryWarning
