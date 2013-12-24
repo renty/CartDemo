@@ -250,6 +250,8 @@
     [self updatePrice];
     
     [self initDeleteChooseGoods];
+    
+    NSLog(@"GitTest");
 }
 
 - (void)didReceiveMemoryWarning
