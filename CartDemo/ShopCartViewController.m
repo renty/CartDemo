@@ -247,6 +247,8 @@
     // Do any additional setup after loading the view from its nib.
     [self initNumberPadView];
     
+    // branch1 test
+    
     [self updatePrice];
     
     [self initDeleteChooseGoods];
