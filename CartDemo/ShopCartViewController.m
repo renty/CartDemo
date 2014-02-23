@@ -250,6 +250,7 @@
     [self updatePrice];
     
     [self initDeleteChooseGoods];
+    // branch1 test
 }
 
 - (void)didReceiveMemoryWarning
