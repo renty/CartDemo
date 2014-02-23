@@ -253,6 +253,8 @@
     
     [self initDeleteChooseGoods];
     // branch1 test
+    
+    // branch2 test
 }
 
 - (void)didReceiveMemoryWarning
